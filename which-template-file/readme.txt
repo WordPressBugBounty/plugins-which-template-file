@@ -2,8 +2,8 @@
 Contributors: gilles66
 Tags: template, tpl, debug, adminbar, toolbar
 Requires at least: 3.3.0
-Tested up to: 6.4.3
-Stable tag: 5.1.0
+Tested up to: 6.7.1
+Stable tag: 5.2.0
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -50,6 +50,9 @@ Just usefull if you are a WordPress theme developer.
 
 
 == Changelog ==
+
+= 5.2.0 =
+* Compatibility with WP 6.7.1
 
 = 5.0.0 =
 * Fix CSRF issue
